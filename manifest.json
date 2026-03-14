@@ -1,0 +1,25 @@
+{
+  "short_name": "CollabBoard",
+  "name": "Collaborative Whiteboard Pro",
+  "description": "A real-time collaborative whiteboard with chat and PDF export.",
+  "icons": [
+    {
+      "src": "/assets/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "id": "/index.html",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#ffffff",
+  "orientation": "any",
+  "scope": "/"
+}
